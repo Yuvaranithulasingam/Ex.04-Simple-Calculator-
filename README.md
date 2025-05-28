@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/641397b6-fd46-4091-ac21-6b52cc419e4e)# EXP_04-Simple-caluculator
+# EXP_04-Simple-caluculator
 
 #### NAME: YUVARANI T
 #### REG. NO: 212222110057
